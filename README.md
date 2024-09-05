@@ -19,7 +19,7 @@ Follow the steps below to set up and use this Password Manager on your system:
 First, clone this repository to your computer:
 
 ```bash
-git clone https://github.com/username/password-manager.git
+git clone https://github.com/TeddyBb1/password-manager.git
 cd password-manager
 ```
 
